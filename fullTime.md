@@ -10,7 +10,7 @@ We will not ask for deep algorithm questions, no projects in LeCiseau  required 
 We are also perfectly fine with people that are googling or asking help of their interviewers
 
 Programming part have to be write in `Golang` or `Javascript`
-All lib / framework are allowed
+all lib / framework are allowed
 
 
 ### Design - implementation (80 - 120 min) 
@@ -29,7 +29,7 @@ We will observe how you manage a non-familiar codebase, and how you fix other pe
 
 ### Refactoring (30 - 45 min)
 
-We will give you a small project that need refactoring, and you have to improve it. The goal is to see whats is a _good code_ for you
+We will give you a small project that need refactoring, and you have to improve it. The goal is to see whats is _good code_ for you
 
 
 ### Raw Programming (45 min - 60 min)
