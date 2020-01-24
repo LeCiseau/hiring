@@ -23,4 +23,4 @@ You will have to defend your code, the challenge here is also to see what is a _
 A very small test which can be done in any language. The point here is to see if you can program a simple task in a restricted time and when the constraints are very clear
 
 
-During the assessment, we will pay attention about how it could be to work with you, mostly it is enjoyable communication
+During the assessment, we will pay attention about how it could be to work with you, mostly we are looking for enjoyable communication
