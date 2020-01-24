@@ -12,10 +12,13 @@ We will not ask for deep algorithm questions, no project in LeCiseau  required t
 We are also perfectly fine with people that are googling or asking help of their interviewers
 
 
+
 ### Project Debrief (80 - 120 min)
 
 During this part, interviewer check your code, how you implemented the solution, and the quality of your code.
 You will have to defend your code, the challenge here is also to see what is a _good code_ for you, and how you can improve your implementation.
+Also, general questions about programming will be ask tailor the fields about what you could do during your internship
+
 
 
 ### Simple exercice (5-10 min)
