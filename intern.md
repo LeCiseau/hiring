@@ -3,7 +3,7 @@
 
 ### General
 
-The first part consist about a small project based on your profile (an API or a web interface)
+The first part consist in a small project based on your profile (an API or a web interface)
 When the first part is validated with our team, we proceed to on-site interview.
 
 Our interviews try to simulate the work you'd do on a day-to-day basis. 
