@@ -21,6 +21,13 @@ Again, we are asking for a prototype of the solution, we will observe how you so
 This is **ok** if this is not finish.
 
 
+### Raw Programming (45 min - 60 min)
+
+This is a small exercise, it has to be written in pure code, no lib, no framework.
+We will see how you can produce code when the restriction are limpid.
+As always, code should be clear and maintainable.
+
+
 ### Bug squash (40 - 60 min)
 
 We take a popular random repo on github and you have to fix a bug.
@@ -31,12 +38,6 @@ We will observe how you manage a non-familiar codebase, and how you fix other pe
 
 We will give you a small project that need refactoring, and you have to improve it. The goal is to see what is _good code_ for you.
 
-
-### Raw Programming (45 min - 60 min)
-
-This is a small exercise, it has to be written in pure code, no lib, no framework.
-We will see how you can produce code when the restriction are limpid.
-As always, code should be clear and maintainable.
 
 
 During the assessment, we will pay attention about how it could be to work with you, mostly we are looking for enjoyable communication.
