@@ -1,4 +1,4 @@
-### (Front) World of FilterCraft
+### World of FilterCraft
 
 With the object `classes` create a web dashboard that allow you to filter through all fields
 e.g. : `I want a tank that wears plate and uses rage`
