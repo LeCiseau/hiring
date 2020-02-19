@@ -80,7 +80,7 @@ app.use(router.get('/kind_regroup/:kind', function (ctx, kind) {
                     kinds[i+j] = obj[i].name;
                 }
             }
-        } 
+        }
     ctx.body = kinds
 }));
 
