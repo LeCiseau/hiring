@@ -11,6 +11,4 @@ e.g.
 ## constraints
 
 
-No lib / no framework
-for JS: only [charCodeAt](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/charCodeAt) is allowed
-for GO: No standard library
+No lib / no framework / no prototype / no global functions
