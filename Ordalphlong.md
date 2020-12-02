@@ -2,11 +2,10 @@
 
 ## brief
 
-Sort all word of a sentence in ASC order and all letter in word in ASC order
+Sort all letter in words in ASC order then all word length in ASC order
 
 e.g.
-
-`I like chicken` becomes `I ccehikn eikl`
+`Yes yes I put a chicken -> I a Yes esy ptu ccehikn`
 
 ## constraints
 
